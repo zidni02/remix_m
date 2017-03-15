@@ -26,6 +26,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="zidni02" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zidni02/REMIX_M-RomControl-v2.5.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Droid\studio project" />
